@@ -14,3 +14,4 @@ I have also did tasks in the field of:
 - algorithms
 
 Controlling Motor speed based on distance of an obstacle: https://youtu.be/x1JU_Vvhmzw
+Mirroring the Servo angle using a Potentiometer: https://youtu.be/tmnVuZ_6i5k
