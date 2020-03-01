@@ -5,7 +5,7 @@ THIS REPOSITORY CONTAINS THE FILES OF THE TASKS/PROJECTS That I did for RMI Club
 My field of specialization being Opencv, I did projects on the following:
 - Trajectory tracking under occluded environments.
 - object speed,distance calculation in realtime.
-- MS psint like application using opencv python
+- MS paint like application using opencv python
 
 I have also did tasks in the field of:
 - mechanics
