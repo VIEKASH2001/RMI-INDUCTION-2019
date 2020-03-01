@@ -13,3 +13,4 @@ I have also did tasks in the field of:
 - arduino coding and mini projects
 - algorithms
 
+Controlling Motor speed based on distance of an obstacle: https://youtu.be/x1JU_Vvhmzw
