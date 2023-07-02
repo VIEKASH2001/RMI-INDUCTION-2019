@@ -1,4 +1,6 @@
-# RMI-INDUCTION-2019
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=500&height=80&lines=RMI+INDUCTION+2019" alt="Typing SVG" />
+</a>
 
 THIS REPOSITORY CONTAINS THE FILES OF THE PROJECTS That I did for RMI Club Inductions, The robotics research and development club of NITT. 
 
